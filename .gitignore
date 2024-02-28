@@ -1,0 +1,39 @@
+# Dependency directories
+/node_modules
+
+# Environment variable files
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Compiled binary addons (if any)
+/build
+
+# Output of `npm run build`
+/dist
+
+# Yarn integrity file
+.yarn-integrity
+
+# Editor directories/files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# IDE settings
+/.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
